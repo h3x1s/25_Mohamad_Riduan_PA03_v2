@@ -1,0 +1,53 @@
+Test(After coding)
+  |
+  |
+  |
+  |Who does?
+  |-----> Programmers
+ Unit Testing
+  |
+  |
+Intergation Testing(all programmer comeplete unit)
+  | Who does?
+  |
+  |
+  |------ > Programmer
+System Testing
+  |
+Acceptance Testing
+  |
+  | Pre - Alpha or Beta(Complete Product) 
+  |Who does?
+End User/Customer/Client(Beta Testers) 
+
+
+Static Testing
+   |
+   |
+   |
+Looking through codes(not excuting or playing)  
+  
+Walkthrough
+    |
+    |
+    |
+Game Inspection(Manager)
+
+Peer Rating
+    |
+    |
+    |
+Senior check quality coding
+
+
+Black Box 
+    |
+    |
+    |
+Focused On the game action
+    
+White Box 
+    |
+    |
+    |
+Code Bug
